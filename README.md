@@ -16,3 +16,7 @@ https://github.com/YassineIdiri/Laravel_WebChat/assets/120946916/aec42caa-ff57-4
 
 https://github.com/YassineIdiri/Laravel_WebChat/assets/120946916/8838e9fb-3365-45d0-9473-aeac18eb2e36
 
+
+
+https://github.com/YassineIdiri/Laravel_WebChat/assets/120946916/9971e4d3-9604-4941-ac5e-c21e9f3d862b
+
