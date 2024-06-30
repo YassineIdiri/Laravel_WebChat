@@ -16,7 +16,7 @@ https://github.com/YassineIdiri/Laravel_WebChat/assets/120946916/4adcae06-cba2-4
 ###  💬 Chat Simulation
 Part 1/2
 
-https://github.com/YassineIdiri/Laravel_WebChat/assets/120946916/ec67bd8b-e488-4e97-ae87-b70077d34f4a
+https://github.com/YassineIdiri/Laravel_WebChat/assets/120946916/50dd7b79-c8dd-4fd7-886b-b754e5451648
 
 Part 2/2
 
