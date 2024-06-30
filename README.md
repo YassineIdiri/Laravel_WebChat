@@ -13,3 +13,12 @@ https://github.com/YassineIdiri/Laravel_WebChat/assets/120946916/aec42caa-ff57-4
 ### 💬 Edit and delete message
 https://github.com/YassineIdiri/Laravel_WebChat/assets/120946916/4adcae06-cba2-4abe-8545-191af5efbdd3
 
+###  💬 Chat Simulation
+Part 1/2
+
+https://github.com/YassineIdiri/Laravel_WebChat/assets/120946916/e15c71b0-da7b-4d87-a3a2-71b9dbe075ee
+
+Part 2/2
+
+https://github.com/YassineIdiri/Laravel_WebChat/assets/120946916/c323b438-6b8f-4025-9844-08553bd7474c
+
