@@ -1,8 +1,23 @@
 <div align="center">
+  
+  # ECommerce
+</div>
 
-<a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a>  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,js,htmx" />
+  </a>
+</p>
+
+
+<div align="center">
+
+![Repo Size](https://img.shields.io/github/repo-size/YassineIdiri/Laravel_WebChat.svg)
+![Commits](https://img.shields.io/github/commit-activity/m/YassineIdiri/Laravel_WebChat.svg)
+![Languages](https://img.shields.io/github/languages/top/YassineIdiri/Laravel_WebChat.svg)
 
 </div>
+
 
 ### 🔐 Login and Registration with Email validation
 https://github.com/YassineIdiri/Laravel_WebChat/assets/120946916/5b732799-77e4-4a56-8097-4e528b0a909b
